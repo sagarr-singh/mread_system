@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+
+
+
+
+ocr.json
+ocr.xlsx
+ocr_parsed.xlsx
